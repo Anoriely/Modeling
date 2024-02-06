@@ -3,7 +3,7 @@ IMPORT G := Graph, Bots, Out, Int;
 
 CONST
   esc = CHR(27); (** Escape key *)
-  delay = 10000; (** Delay between frames in ms *)
+  delay = 90; (** Delay between frames in ms *)
   framesToSkip = 5000000; (** How many frames to skip when space pressed *)
   fontFname = 'Data/Fonts/Main'; (** Name of the bitmap file with the font *)
   cellSize = 32;
