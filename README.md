@@ -1,5 +1,7 @@
 # Modeling
 
+![Modeling screenshot](screenshot.jpg)
+
 This is [Free Oberon](https://free.oberon.org/en/) program that simulates genetic algorithm.
 
 ## Runing
